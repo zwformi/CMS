@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tianti.iml" filepath="$PROJECT_DIR$/tianti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tianti-cms/tianti-cms.iml" filepath="$PROJECT_DIR$/tianti-cms/tianti-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tianti-common/tianti-common.iml" filepath="$PROJECT_DIR$/tianti-common/tianti-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tianti-modules/tianti-module-admin/tianti-module-admin.iml" filepath="$PROJECT_DIR$/tianti-modules/tianti-module-admin/tianti-module-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tianti-modules/tianti-module-gateway/tianti-module-gateway.iml" filepath="$PROJECT_DIR$/tianti-modules/tianti-module-gateway/tianti-module-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tianti-modules/tianti-module-interface/tianti-module-interface.iml" filepath="$PROJECT_DIR$/tianti-modules/tianti-module-interface/tianti-module-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tianti-modules/tianti-modules.iml" filepath="$PROJECT_DIR$/tianti-modules/tianti-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tianti-org/tianti-org.iml" filepath="$PROJECT_DIR$/tianti-org/tianti-org.iml" />
+    </modules>
+  </component>
+</project>

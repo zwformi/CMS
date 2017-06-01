@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tianti-module-admin:war">
+    <output-path>$PROJECT_DIR$/tianti-modules/tianti-module-admin/target</output-path>
+    <root id="archive" name="tianti-module-admin.war">
+      <element id="artifact" artifact-name="tianti-module-admin:war exploded" />
+    </root>
+  </artifact>
+</component>
